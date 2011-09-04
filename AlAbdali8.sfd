@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1108069885
-ModificationTime: 1315113554
+ModificationTime: 1315113652
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,8 +52,6 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2FamilyClass: 2560
 OS2Vendor: 'Alts'
-OS2CodePages: 00000040.00000000
-OS2UnicodeRanges: 80002003.80002000.00000008.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
