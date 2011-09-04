@@ -17,7 +17,7 @@ dist: $(NAME).otf
 	@cp $(NAME).otf $(NAME).sfd $(NAME).fea $(NAME)-$(VERSION)
 	@cp Makefile $(NAME)-$(VERSION)
 	@cp README $(NAME)-$(VERSION)
-	@tar cfj $(NAME)-$(VERSION).tar.bz2 $(NAME)-$(VERSION)
+	@zip -r $(NAME)-$(VERSION).zip $(NAME)-$(VERSION)
 
 clean:
-	@rm -rf $(NAME).otf $(NAME)-$(VERSION) $(NAME)-$(VERSION).tar.bz2
+	@rm -rf $(NAME).otf $(NAME)-$(VERSION) $(NAME)-$(VERSION).zip
