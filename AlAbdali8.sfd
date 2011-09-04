@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1108069885
-ModificationTime: 1315111522
+ModificationTime: 1315113554
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,28 +57,28 @@ OS2UnicodeRanges: 80002003.80002000.00000008.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "Yanone: Al Abdali 8: 2005" "" "Version 1.000;PS 001.000;hotconv 1.0.38" "" "Al Abdali 8 is a trademark of Yanone." "Yanone" "Yanone" "" "http://www.yanone.de" "http://www.yanone.de" "Creative Commons +ACIA-BY+ACIA License Version 2" "http://creativecommons.org/licenses/by/2.0/de/" "" "Al Abdali 8" "Regular" "Al Abdali 8" 
-LangName: 1036 "" "" "Simple" 
-LangName: 1031 "" "" "Standard" 
-LangName: 1040 "" "" "Normale" 
-LangName: 1043 "" "" "Standaard" 
 LangName: 1053 "" "" "Normal" 
 LangName: 1034 "" "" "Texto com+APoA-n" 
-LangName: 1030 "" "" "Almindelig" 
 LangName: 1046 "" "" "Texto Normal" 
 LangName: 1044 "" "" "Normal" 
-LangName: 1035 "" "" "Plain" 
-LangName: 1041 "" "" "+MNcw7DD8MPMA" 
-LangName: 1028 "" "" "+XnOa1AAA" 
 LangName: 1042 "" "" "+vPTRtcy0" 
+LangName: 1041 "" "" "+MNcw7DD8MPMA" 
+LangName: 1040 "" "" "Normale" 
+LangName: 1031 "" "" "Standard" 
+LangName: 1036 "" "" "Simple" 
+LangName: 1035 "" "" "Plain" 
+LangName: 1043 "" "" "Standaard" 
+LangName: 1030 "" "" "Almindelig" 
+LangName: 1028 "" "" "+XnOa1AAA" 
 LangName: 2052 "" "" "+Zm6QGgAA" 
+LangName: 1033 "" "" "" "" "" "" "" "Al Abdali 8 is a trademark of Yanone." "Yanone" "Yanone" "" "http://www.yanone.de" "http://www.yanone.de" "Creative Commons +ACIA-BY+ACIA License Version 2" "http://creativecommons.org/licenses/by/2.0/de/" "" "Al Abdali 8" "Regular" "Al Abdali 8" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64311 13 6
+WinInfo: 64308 12 6
 BeginPrivate: 1
 BlueScale 7 0.03963
 EndPrivate
