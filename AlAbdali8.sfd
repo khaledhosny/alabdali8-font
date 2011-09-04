@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1108069885
-ModificationTime: 1315110697
+ModificationTime: 1315111143
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -16544,31 +16544,32 @@ EndChar
 StartChar: uni064D
 Encoding: 1613 1613 222
 Width: 0
+VWidth: 625
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
--5 -255 m 1
- -5 -370 l 1
- -120 -370 l 1
- -120 -255 l 1
- -5 -255 l 1
-120 -130 m 1
- 120 -245 l 1
- 5 -245 l 1
- 5 -130 l 1
- 120 -130 l 1
+-5 -630 m 1
+ -5 -745 l 1
+ -120 -745 l 1
+ -120 -630 l 1
+ -5 -630 l 1
 120 -505 m 1
  120 -620 l 1
  5 -620 l 1
  5 -505 l 1
  120 -505 l 1
-245 -380 m 1
- 245 -495 l 1
- 130 -495 l 1
- 130 -380 l 1
- 245 -380 l 1
+120 -880 m 1
+ 120 -995 l 1
+ 5 -995 l 1
+ 5 -880 l 1
+ 120 -880 l 1
+245 -755 m 1
+ 245 -870 l 1
+ 130 -870 l 1
+ 130 -755 l 1
+ 245 -755 l 1
 EndSplineSet
 EndChar
 
@@ -16629,21 +16630,22 @@ EndChar
 StartChar: uni0650
 Encoding: 1616 1616 225
 Width: 0
+VWidth: 750
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-120 -379 m 1
- 120 -494 l 1
- 5 -494 l 1
- 5 -379 l 1
- 120 -379 l 1
-245 -254 m 1
- 245 -369 l 1
- 130 -369 l 1
- 130 -254 l 1
- 245 -254 l 1
+120 -629 m 1
+ 120 -744 l 1
+ 5 -744 l 1
+ 5 -629 l 1
+ 120 -629 l 1
+245 -504 m 1
+ 245 -619 l 1
+ 130 -619 l 1
+ 130 -504 l 1
+ 245 -504 l 1
 EndSplineSet
 EndChar
 
@@ -17544,36 +17546,37 @@ EndChar
 StartChar: uni0655
 Encoding: 1621 1621 241
 Width: 0
+VWidth: 625
 GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
--5 -381 m 1
- -5 -496 l 1
- -120 -496 l 1
- -120 -381 l 1
- -5 -381 l 1
-120 -381 m 1
- 120 -496 l 1
- 5 -496 l 1
- 5 -381 l 1
- 120 -381 l 1
-245 -381 m 1
- 245 -496 l 1
- 130 -496 l 1
- 130 -381 l 1
- 245 -381 l 1
-120 -256 m 1
- 120 -371 l 1
- 5 -371 l 1
- 5 -256 l 1
- 120 -256 l 1
-245 -131 m 1
- 245 -246 l 1
- 130 -246 l 1
- 130 -131 l 1
- 245 -131 l 1
+-5 -756 m 1
+ -5 -871 l 1
+ -120 -871 l 1
+ -120 -756 l 1
+ -5 -756 l 1
+120 -756 m 1
+ 120 -871 l 1
+ 5 -871 l 1
+ 5 -756 l 1
+ 120 -756 l 1
+245 -756 m 1
+ 245 -871 l 1
+ 130 -871 l 1
+ 130 -756 l 1
+ 245 -756 l 1
+120 -631 m 1
+ 120 -746 l 1
+ 5 -746 l 1
+ 5 -631 l 1
+ 120 -631 l 1
+245 -506 m 1
+ 245 -621 l 1
+ 130 -621 l 1
+ 130 -506 l 1
+ 245 -506 l 1
 EndSplineSet
 EndChar
 
