@@ -72,13 +72,12 @@ LangName: 1028 "" "" "+XnOa1AAA"
 LangName: 1042 "" "" "+vPTRtcy0" 
 LangName: 2052 "" "" "+Zm6QGgAA" 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
-NameList: Adobe Glyph List
+NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 48 8 2
+WinInfo: 65481 13 6
 BeginPrivate: 1
 BlueScale 7 0.03963
 EndPrivate
@@ -104,15 +103,15 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: .null
+StartChar: uni0008
 Encoding: 8 8 1
-AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
+AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: CR
+StartChar: uni0009
 Encoding: 9 9 2
 AltUni2: 00000d.ffffffff.0
 Width: 200
@@ -127,7 +126,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: behinitialarabic
+StartChar: uniFE91
 Encoding: 65169 65169 4
 Width: 500
 Flags: W
@@ -167,7 +166,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehinitialarabic
+StartChar: uniFE97
 Encoding: 65175 65175 5
 Width: 625
 Flags: W
@@ -217,7 +216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thehinitialarabic
+StartChar: uniFE9B
 Encoding: 65179 65179 6
 Width: 625
 Flags: W
@@ -272,7 +271,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jeeminitialarabic
+StartChar: uniFE9F
 Encoding: 65183 65183 7
 Width: 750
 Flags: W
@@ -337,7 +336,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hahinitialarabic
+StartChar: uniFEA3
 Encoding: 65187 65187 8
 Width: 750
 Flags: W
@@ -392,7 +391,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: khahinitialarabic
+StartChar: uniFEA7
 Encoding: 65191 65191 9
 Width: 749
 Flags: W
@@ -457,7 +456,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seeninitialarabic
+StartChar: uniFEB3
 Encoding: 65203 65203 10
 Width: 875
 Flags: W
@@ -522,7 +521,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sheeninitialarabic
+StartChar: uniFEB7
 Encoding: 65207 65207 11
 Width: 875
 Flags: W
@@ -626,7 +625,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: tahinitialarabic
+StartChar: uniFEC3
 Encoding: 65219 65219 14
 Width: 875
 Flags: W
@@ -706,7 +705,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zahinitialarabic
+StartChar: uniFEC7
 Encoding: 65223 65223 15
 Width: 875
 Flags: W
@@ -803,7 +802,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: aininitialarabic
+StartChar: uniFECB
 Encoding: 65227 65227 17
 Width: 750
 Flags: W
@@ -858,7 +857,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ghaininitialarabic
+StartChar: uniFECF
 Encoding: 65231 65231 18
 Width: 750
 Flags: W
@@ -923,7 +922,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fehinitialarabic
+StartChar: uniFED3
 Encoding: 65235 65235 19
 Width: 750
 Flags: W
@@ -1003,7 +1002,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: qafinitialarabic
+StartChar: uniFED7
 Encoding: 65239 65239 20
 Width: 750
 Flags: W
@@ -1093,7 +1092,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kafinitialarabic
+StartChar: uniFEDB
 Encoding: 65243 65243 21
 Width: 625
 Flags: W
@@ -1143,7 +1142,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: laminitialarabic
+StartChar: uniFEDF
 Encoding: 65247 65247 22
 Width: 375
 Flags: W
@@ -1198,7 +1197,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meeminitialarabic
+StartChar: uniFEE3
 Encoding: 65251 65251 23
 Width: 750
 Flags: W
@@ -1253,7 +1252,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nooninitialarabic
+StartChar: uniFEE7
 Encoding: 65255 65255 24
 Width: 500
 Flags: W
@@ -1293,7 +1292,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hehinitialarabic
+StartChar: uniFEEB
 Encoding: 65259 65259 25
 Width: 1000
 Flags: W
@@ -1398,7 +1397,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehinitialarabic
+StartChar: uniFEF3
 Encoding: 65267 65267 26
 Width: 625
 Flags: W
@@ -1453,7 +1452,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehhamzaabovemedialarabic
+StartChar: uniFE8C
 Encoding: 65164 65164 27
 Width: 625
 Flags: W
@@ -1523,7 +1522,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: behmedialarabic
+StartChar: uniFE92
 Encoding: 65170 65170 28
 Width: 625
 Flags: W
@@ -1578,7 +1577,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehmedialarabic
+StartChar: uniFE98
 Encoding: 65176 65176 29
 Width: 625
 Flags: W
@@ -1643,7 +1642,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thehmedialarabic
+StartChar: uniFE9C
 Encoding: 65180 65180 30
 Width: 625
 Flags: W
@@ -1713,7 +1712,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jeemmedialarabic
+StartChar: uniFEA0
 Encoding: 65184 65184 31
 Width: 625
 Flags: W
@@ -1778,7 +1777,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hahmedialarabic
+StartChar: uniFEA4
 Encoding: 65188 65188 32
 Width: 625
 Flags: W
@@ -1833,7 +1832,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: khahmedialarabic
+StartChar: uniFEA8
 Encoding: 65192 65192 33
 Width: 750
 Flags: W
@@ -1898,7 +1897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seenmedialarabic
+StartChar: uniFEB4
 Encoding: 65204 65204 34
 Width: 875
 Flags: W
@@ -1973,7 +1972,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonjeemisolatedarabic
+StartChar: uniFC4B
 Encoding: 64587 64587 35
 Width: 1000
 Flags: W
@@ -2093,7 +2092,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehjeemisolatedarabic
+StartChar: uniFC0B
 Encoding: 64523 64523 36
 Width: 1000
 Flags: W
@@ -2223,7 +2222,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehhahisolatedarabic
+StartChar: uniFC0C
 Encoding: 64524 64524 37
 Width: 1000
 Flags: W
@@ -2343,7 +2342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonjeeminitialarabic
+StartChar: uniFCD2
 Encoding: 64722 64722 38
 Width: 750
 Flags: W
@@ -2413,7 +2412,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehhahinitialarabic
+StartChar: uniFCA2
 Encoding: 64674 64674 39
 Width: 750
 Flags: W
@@ -2493,7 +2492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehjeeminitialarabic
+StartChar: uniFCA1
 Encoding: 64673 64673 40
 Width: 750
 Flags: W
@@ -2583,7 +2582,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamjeeminitialarabic
+StartChar: uniFCC9
 Encoding: 64713 64713 41
 Width: 750
 Flags: W
@@ -2663,7 +2662,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamhahinitialarabic
+StartChar: uniFCCA
 Encoding: 64714 64714 42
 Width: 750
 Flags: W
@@ -2733,7 +2732,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamkhahinitialarabic
+StartChar: uniFCCB
 Encoding: 64715 64715 43
 Width: 875
 Flags: W
@@ -2818,7 +2817,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lammeeminitialarabic
+StartChar: uniFCCC
 Encoding: 64716 64716 44
 Width: 625
 Flags: W
@@ -2878,7 +2877,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonmeemisolatedarabic
+StartChar: uniFC4E
 Encoding: 64590 64590 45
 Width: 625
 Flags: W
@@ -2943,7 +2942,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: behmeemisolatedarabic
+StartChar: uniFC08
 Encoding: 64520 64520 46
 Width: 625
 Flags: W
@@ -3008,7 +3007,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehmeemisolatedarabic
+StartChar: uniFC0E
 Encoding: 64526 64526 47
 Width: 625
 Flags: W
@@ -3083,7 +3082,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehmeemisolatedarabic
+StartChar: uniFC58
 Encoding: 64600 64600 48
 Width: 875
 Flags: W
@@ -3158,7 +3157,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonmeeminitialarabic
+StartChar: uniFCD5
 Encoding: 64725 64725 49
 Width: 625
 Flags: W
@@ -3218,7 +3217,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: behmeeminitialarabic
+StartChar: uniFC9F
 Encoding: 64671 64671 50
 Width: 625
 Flags: W
@@ -3278,7 +3277,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehmeeminitialarabic
+StartChar: uniFCDD
 Encoding: 64733 64733 51
 Width: 625
 Flags: W
@@ -3348,7 +3347,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meemmeeminitialarabic
+StartChar: uniFCD1
 Encoding: 64721 64721 52
 Width: 625
 Flags: W
@@ -3398,7 +3397,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meemmeemisolatedarabic
+StartChar: uniFC48
 Encoding: 64584 64584 53
 Width: 625
 Flags: W
@@ -3453,7 +3452,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonnoonfinalarabic
+StartChar: uniFC8D
 Encoding: 64653 64653 54
 Width: 1500
 Flags: W
@@ -3568,7 +3567,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehnoonfinalarabic
+StartChar: uniFC94
 Encoding: 64660 64660 55
 Width: 1500
 Flags: W
@@ -3693,7 +3692,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: behnoonfinalarabic
+StartChar: uniFC6D
 Encoding: 64621 64621 56
 Width: 1500
 Flags: W
@@ -3808,7 +3807,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehnoonfinalarabic
+StartChar: uniFC73
 Encoding: 64627 64627 57
 Width: 1500
 Flags: W
@@ -3933,7 +3932,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehbarreefinalarabic
+StartChar: uniFBAF
 Encoding: 64431 64431 58
 Width: 750
 Flags: W
@@ -3998,7 +3997,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehmeeminitialarabic
+StartChar: uniFCA4
 Encoding: 64676 64676 59
 Width: 625
 Flags: W
@@ -4153,7 +4152,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lammeemhahinitialarabic
+StartChar: uniFD88
 Encoding: 64904 64904 61
 Width: 750
 Flags: W
@@ -4313,7 +4312,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddakasraarabic
+StartChar: uniFC62
 Encoding: 64610 64610 63
 Width: 0
 Flags: W
@@ -4343,7 +4342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddakasratanarabic
+StartChar: uniFC5F
 Encoding: 64607 64607 64
 Width: 0
 Flags: W
@@ -4403,7 +4402,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gaffinalarabic
+StartChar: uniFB93
 Encoding: 64403 64403 66
 Width: 1125
 Flags: W
@@ -4493,7 +4492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sheenmedialarabic
+StartChar: uniFEB8
 Encoding: 65208 65208 67
 Width: 875
 Flags: W
@@ -4593,7 +4592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sadmedialarabic
+StartChar: uniFEBC
 Encoding: 65212 65212 68
 Width: 1000
 Flags: W
@@ -4683,7 +4682,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dadmedialarabic
+StartChar: uniFEC0
 Encoding: 65216 65216 69
 Width: 1000
 Flags: W
@@ -4783,7 +4782,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tahmedialarabic
+StartChar: uniFEC4
 Encoding: 65220 65220 70
 Width: 875
 Flags: W
@@ -4873,7 +4872,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zahmedialarabic
+StartChar: uniFEC8
 Encoding: 65224 65224 71
 Width: 875
 Flags: W
@@ -4973,7 +4972,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ainmedialarabic
+StartChar: uniFECC
 Encoding: 65228 65228 72
 Width: 750
 Flags: W
@@ -5043,7 +5042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ghainmedialarabic
+StartChar: uniFED0
 Encoding: 65232 65232 73
 Width: 750
 Flags: W
@@ -5123,7 +5122,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fehmedialarabic
+StartChar: uniFED4
 Encoding: 65236 65236 74
 Width: 750
 Flags: W
@@ -5203,7 +5202,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: qafmedialarabic
+StartChar: uniFED8
 Encoding: 65240 65240 75
 Width: 750
 Flags: W
@@ -5293,7 +5292,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kafmedialarabic
+StartChar: uniFEDC
 Encoding: 65244 65244 76
 Width: 625
 Flags: W
@@ -5348,7 +5347,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lammedialarabic
+StartChar: uniFEE0
 Encoding: 65248 65248 77
 Width: 625
 Flags: W
@@ -5418,7 +5417,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meemmedialarabic
+StartChar: uniFEE4
 Encoding: 65252 65252 78
 Width: 750
 Flags: W
@@ -5478,7 +5477,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonmedialarabic
+StartChar: uniFEE8
 Encoding: 65256 65256 79
 Width: 625
 Flags: W
@@ -5533,7 +5532,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hehmedialarabic
+StartChar: uniFEEC
 Encoding: 65260 65260 80
 Width: 750
 Flags: W
@@ -5623,7 +5622,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehmedialarabic
+StartChar: uniFEF4
 Encoding: 65268 65268 81
 Width: 625
 Flags: W
@@ -5688,7 +5687,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefmaddaabovefinalarabic
+StartChar: uniFE82
 Encoding: 65154 65154 82
 Width: 500
 Flags: W
@@ -5748,7 +5747,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefhamzaabovefinalarabic
+StartChar: uniFE84
 Encoding: 65156 65156 83
 Width: 500
 Flags: W
@@ -5813,7 +5812,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: wawhamzaabovefinalarabic
+StartChar: uniFE86
 Encoding: 65158 65158 84
 Width: 875
 Flags: W
@@ -5928,7 +5927,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefhamzabelowfinalarabic
+StartChar: uniFE88
 Encoding: 65160 65160 85
 Width: 375
 Flags: W
@@ -5998,7 +5997,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehhamzaabovefinalarabic
+StartChar: uniFE8A
 Encoding: 65162 65162 86
 Width: 1375
 Flags: W
@@ -6098,7 +6097,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aleffinalarabic
+StartChar: uniFE8E
 Encoding: 65166 65166 87
 Width: 375
 Flags: W
@@ -6143,7 +6142,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: behfinalarabic
+StartChar: uniFE90
 Encoding: 65168 65168 88
 Width: 1125
 Flags: W
@@ -6218,7 +6217,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehmarbutafinalarabic
+StartChar: uniFE94
 Encoding: 65172 65172 89
 Width: 750
 Flags: W
@@ -6303,7 +6302,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehfinalarabic
+StartChar: uniFE96
 Encoding: 65174 65174 90
 Width: 1125
 Flags: W
@@ -6388,7 +6387,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thehfinalarabic
+StartChar: uniFE9A
 Encoding: 65178 65178 91
 Width: 1125
 Flags: W
@@ -6478,7 +6477,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jeemfinalarabic
+StartChar: uniFE9E
 Encoding: 65182 65182 92
 Width: 1125
 Flags: W
@@ -6588,7 +6587,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: decimalseparatorarabic
+StartChar: uni066B
 Encoding: 1643 1643 93
 Width: 500
 Flags: W
@@ -6623,7 +6622,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thousandsseparatorarabic
+StartChar: uni066C
 Encoding: 1644 1644 94
 Width: 500
 Flags: W
@@ -6663,7 +6662,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddafathaarabic
+StartChar: uniFC60
 Encoding: 64608 64608 95
 Width: 0
 Flags: W
@@ -6693,7 +6692,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddadammaarabic
+StartChar: uniFC61
 Encoding: 64609 64609 96
 Width: 0
 Flags: W
@@ -6728,7 +6727,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefhamzaaboveisolatedarabic
+StartChar: uniFEF7
 Encoding: 65271 65271 97
 Width: 1000
 Flags: W
@@ -6828,7 +6827,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hahfinalarabic
+StartChar: uniFEA2
 Encoding: 65186 65186 98
 Width: 1000
 Flags: W
@@ -6928,7 +6927,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: khahfinalarabic
+StartChar: uniFEA6
 Encoding: 65190 65190 99
 Width: 1125
 Flags: W
@@ -7038,7 +7037,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dalfinalarabic
+StartChar: uniFEAA
 Encoding: 65194 65194 100
 Width: 875
 Flags: W
@@ -7103,7 +7102,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thalfinalarabic
+StartChar: uniFEAC
 Encoding: 65196 65196 101
 Width: 875
 Flags: W
@@ -7178,7 +7177,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rehfinalarabic
+StartChar: uniFEAE
 Encoding: 65198 65198 102
 Width: 875
 Flags: W
@@ -7228,7 +7227,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zainfinalarabic
+StartChar: uniFEB0
 Encoding: 65200 65200 103
 Width: 875
 Flags: W
@@ -7288,7 +7287,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seenfinalarabic
+StartChar: uniFEB2
 Encoding: 65202 65202 104
 Width: 1500
 Flags: W
@@ -7393,7 +7392,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sheenfinalarabic
+StartChar: uniFEB6
 Encoding: 65206 65206 105
 Width: 1500
 Flags: W
@@ -7523,7 +7522,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sadfinalarabic
+StartChar: uniFEBA
 Encoding: 65210 65210 106
 Width: 1625
 Flags: W
@@ -7643,7 +7642,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dadfinalarabic
+StartChar: uniFEBE
 Encoding: 65214 65214 107
 Width: 1625
 Flags: W
@@ -7773,7 +7772,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tahfinalarabic
+StartChar: uniFEC2
 Encoding: 65218 65218 108
 Width: 1000
 Flags: W
@@ -7863,7 +7862,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zahfinalarabic
+StartChar: uniFEC6
 Encoding: 65222 65222 109
 Width: 1000
 Flags: W
@@ -7963,7 +7962,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ainfinalarabic
+StartChar: uniFECA
 Encoding: 65226 65226 110
 Width: 750
 Flags: W
@@ -8053,7 +8052,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ghainfinalarabic
+StartChar: uniFECE
 Encoding: 65230 65230 111
 Width: 750
 Flags: W
@@ -8153,7 +8152,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fehfinalarabic
+StartChar: uniFED2
 Encoding: 65234 65234 112
 Width: 1250
 Flags: W
@@ -8253,7 +8252,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: qaffinalarabic
+StartChar: uniFED6
 Encoding: 65238 65238 113
 Width: 1250
 Flags: W
@@ -8363,7 +8362,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kaffinalarabic
+StartChar: uniFEDA
 Encoding: 65242 65242 114
 Width: 1000
 Flags: W
@@ -8448,7 +8447,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamfinalarabic
+StartChar: uniFEDE
 Encoding: 65246 65246 115
 Width: 875
 Flags: W
@@ -8533,7 +8532,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meemfinalarabic
+StartChar: uniFEE2
 Encoding: 65250 65250 116
 Width: 1000
 Flags: W
@@ -8608,7 +8607,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonfinalarabic
+StartChar: uniFEE6
 Encoding: 65254 65254 117
 Width: 1125
 Flags: W
@@ -8683,7 +8682,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hehfinalarabic
+StartChar: uniFEEA
 Encoding: 65258 65258 118
 Width: 750
 Flags: W
@@ -8748,7 +8747,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: wawfinalarabic
+StartChar: uniFEEE
 Encoding: 65262 65262 119
 Width: 875
 Flags: W
@@ -8838,7 +8837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefmaksurafinalarabic
+StartChar: uniFEF0
 Encoding: 65264 65264 120
 Width: 1375
 Flags: W
@@ -8913,7 +8912,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehfinalarabic
+StartChar: uniFEF2
 Encoding: 65266 65266 121
 Width: 1375
 Flags: W
@@ -9008,7 +9007,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefmaddaabovefinalarabic
+StartChar: uniFEF6
 Encoding: 65270 65270 122
 Width: 1000
 Flags: W
@@ -9108,7 +9107,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddadammatanarabic
+StartChar: uniFC5E
 Encoding: 64606 64606 123
 Width: 0
 Flags: W
@@ -9138,7 +9137,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehhamzaaboveinitialarabic
+StartChar: uniFE8B
 Encoding: 65163 65163 124
 Width: 625
 Flags: W
@@ -9198,7 +9197,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dadinitialarabic
+StartChar: uniFEBF
 Encoding: 65215 65215 125
 Width: 1000
 Flags: W
@@ -9288,7 +9287,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehinitialarabic.2
+StartChar: uniFEF3.2
 Encoding: 65543 -1 126
 Width: 625
 Flags: W
@@ -9343,7 +9342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: farsiyehmedialarabic
+StartChar: uniFBFF
 Encoding: 64511 64511 127
 Width: 625
 Flags: W
@@ -9408,7 +9407,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gafmedialarabic
+StartChar: uniFB95
 Encoding: 64405 64405 128
 Width: 750
 Flags: W
@@ -9483,7 +9482,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sadinitialarabic
+StartChar: uniFEBB
 Encoding: 65211 65211 129
 Width: 1000
 Flags: W
@@ -9563,7 +9562,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pehinitialarabic
+StartChar: uniFB58
 Encoding: 64344 64344 130
 Width: 625
 Flags: W
@@ -10172,7 +10171,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tchehinitialarabic
+StartChar: uniFB7C
 Encoding: 64380 64380 132
 Width: 750
 Flags: W
@@ -10302,7 +10301,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: vehinitialarabic
+StartChar: uniFB6C
 Encoding: 64364 64364 134
 Width: 750
 Flags: W
@@ -10397,7 +10396,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gafinitialarabic
+StartChar: uniFB94
 Encoding: 64404 64404 135
 Width: 750
 Flags: W
@@ -10467,7 +10466,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonghunnafinalarabic
+StartChar: uniFB9F
 Encoding: 64415 64415 136
 Width: 1000
 Flags: W
@@ -10527,7 +10526,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pehmedialarabic
+StartChar: uniFB59
 Encoding: 64345 64345 137
 Width: 625
 Flags: W
@@ -10597,7 +10596,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ttehmedialarabic
+StartChar: uniFB69
 Encoding: 64361 64361 138
 Width: 625
 Flags: W
@@ -10662,7 +10661,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tchehmedialarabic
+StartChar: uniFB7D
 Encoding: 64381 64381 139
 Width: 625
 Flags: W
@@ -10797,7 +10796,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonghunnaarabic
+StartChar: uni06BA
 Encoding: 1722 1722 141
 Width: 1125
 Flags: W
@@ -10862,7 +10861,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: vehmedialarabic
+StartChar: uniFB6D
 Encoding: 64365 64365 142
 Width: 750
 Flags: W
@@ -10957,7 +10956,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pehfinalarabic
+StartChar: uniFB57
 Encoding: 64343 64343 143
 Width: 1500
 Flags: W
@@ -11062,7 +11061,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ttehfinalarabic
+StartChar: uniFB67
 Encoding: 64359 64359 144
 Width: 1125
 Flags: W
@@ -11147,7 +11146,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tchehfinalarabic
+StartChar: uniFB7B
 Encoding: 64379 64379 145
 Width: 1375
 Flags: W
@@ -11337,7 +11336,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: vehfinalarabic
+StartChar: uniFB6B
 Encoding: 64363 64363 147
 Width: 1375
 Flags: W
@@ -11457,7 +11456,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehthreedotsbelowarabic
+StartChar: uni06D1
 Encoding: 1745 1745 148
 Width: 1500
 Flags: W
@@ -11562,7 +11561,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ddalfinalarabic
+StartChar: uniFB89
 Encoding: 64393 64393 149
 Width: 1000
 Flags: W
@@ -11647,7 +11646,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rrehfinalarabic
+StartChar: uniFB8D
 Encoding: 64397 64397 150
 Width: 875
 Flags: W
@@ -11717,7 +11716,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jehfinalarabic
+StartChar: uniFB8B
 Encoding: 64395 64395 151
 Width: 875
 Flags: W
@@ -11792,7 +11791,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefisolatedarabic
+StartChar: uniFEFB
 Encoding: 65275 65275 152
 Width: 1000
 Flags: W
@@ -11872,7 +11871,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamaleffinalarabic
+StartChar: uniFEFC
 Encoding: 65276 65276 153
 Width: 875
 Flags: W
@@ -11997,7 +11996,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefhamzaabovefinalarabic
+StartChar: uniFEF8
 Encoding: 65272 65272 155
 Width: 1000
 Flags: W
@@ -12102,7 +12101,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefhamzabelowisolatedarabic
+StartChar: uniFEF9
 Encoding: 65273 65273 156
 Width: 1125
 Flags: W
@@ -12207,7 +12206,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefhamzabelowfinalarabic
+StartChar: uniFEFA
 Encoding: 65274 65274 157
 Width: 1125
 Flags: W
@@ -12307,7 +12306,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamalefmaddaaboveisolatedarabic
+StartChar: uniFEF5
 Encoding: 65269 65269 158
 Width: 1000
 Flags: W
@@ -12402,7 +12401,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ttehinitialarabic
+StartChar: uniFB68
 Encoding: 64360 64360 159
 Width: 625
 Flags: W
@@ -12457,7 +12456,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sallallahoualayhewasallamarabic
+StartChar: uniFDFA
 Encoding: 65018 65018 160
 Width: 1080
 Flags: W
@@ -12745,7 +12744,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamlamhehisolatedarabic
+StartChar: uniFDF2
 Encoding: 65010 65010 161
 Width: 1250
 Flags: W
@@ -12875,7 +12874,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: percentarabic
+StartChar: uni066A
 Encoding: 1642 1642 162
 Width: 875
 Flags: W
@@ -13005,7 +13004,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: commaarabic
+StartChar: uni060C
 Encoding: 1548 1548 164
 Width: 625
 Flags: W
@@ -13131,7 +13130,7 @@ EndSplineSet
 Kerns2: 274 -250 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  166 -250 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
 
-StartChar: zeroarabic
+StartChar: uni0660
 Encoding: 1632 1632 168
 Width: 625
 Flags: W
@@ -13151,7 +13150,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: onearabic
+StartChar: uni0661
 Encoding: 1633 1633 169
 Width: 625
 Flags: W
@@ -13191,7 +13190,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: twoarabic
+StartChar: uni0662
 Encoding: 1634 1634 170
 Width: 875
 Flags: W
@@ -13256,7 +13255,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: threearabic
+StartChar: uni0663
 Encoding: 1635 1635 171
 Width: 875
 Flags: W
@@ -13331,7 +13330,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fourarabic
+StartChar: uni0664
 Encoding: 1636 1636 172
 Width: 750
 Flags: W
@@ -13401,7 +13400,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fivearabic
+StartChar: uni0665
 Encoding: 1637 1637 173
 Width: 875
 Flags: W
@@ -13481,7 +13480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sixarabic
+StartChar: uni0666
 Encoding: 1638 1638 174
 Width: 750
 Flags: W
@@ -13536,7 +13535,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sevenarabic
+StartChar: uni0667
 Encoding: 1639 1639 175
 Width: 875
 Flags: W
@@ -13601,7 +13600,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eightarabic
+StartChar: uni0668
 Encoding: 1640 1640 176
 Width: 875
 Flags: W
@@ -13666,7 +13665,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ninearabic
+StartChar: uni0669
 Encoding: 1641 1641 177
 Width: 875
 Flags: W
@@ -13771,7 +13770,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: semicolonarabic
+StartChar: uni061B
 Encoding: 1563 1563 179
 Width: 500
 Flags: W
@@ -13981,7 +13980,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: questionarabic
+StartChar: uni061F
 Encoding: 1567 1567 183
 Width: 750
 Flags: W
@@ -14036,7 +14035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asteriskarabic
+StartChar: uni066D
 Encoding: 1645 1645 184
 Width: 1125
 Flags: W
@@ -14126,7 +14125,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hamzaarabic
+StartChar: uni0621
 Encoding: 1569 1569 185
 Width: 625
 Flags: W
@@ -14161,7 +14160,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefmaddaabovearabic
+StartChar: uni0622
 Encoding: 1570 1570 186
 Width: 625
 Flags: W
@@ -14216,7 +14215,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefhamzaabovearabic
+StartChar: uni0623
 Encoding: 1571 1571 187
 Width: 625
 Flags: W
@@ -14271,7 +14270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: wawhamzaabovearabic
+StartChar: uni0624
 Encoding: 1572 1572 188
 Width: 750
 Flags: W
@@ -14376,7 +14375,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefhamzabelowarabic
+StartChar: uni0625
 Encoding: 1573 1573 189
 Width: 625
 Flags: W
@@ -14446,7 +14445,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehhamzaabovearabic
+StartChar: uni0626
 Encoding: 1574 1574 190
 Width: 1375
 Flags: W
@@ -14541,7 +14540,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefarabic
+StartChar: uni0627
 Encoding: 1575 1575 191
 Width: 375
 Flags: W
@@ -14586,7 +14585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: beharabic
+StartChar: uni0628
 Encoding: 1576 1576 192
 Width: 1125
 Flags: W
@@ -14661,7 +14660,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tehmarbutaarabic
+StartChar: uni0629
 Encoding: 1577 1577 193
 Width: 875
 Flags: W
@@ -14741,7 +14740,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: teharabic
+StartChar: uni062A
 Encoding: 1578 1578 194
 Width: 1125
 Flags: W
@@ -14826,7 +14825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: theharabic
+StartChar: uni062B
 Encoding: 1579 1579 195
 Width: 1125
 Flags: W
@@ -14916,7 +14915,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jeemarabic
+StartChar: uni062C
 Encoding: 1580 1580 196
 Width: 1000
 Flags: W
@@ -15001,7 +15000,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: haharabic
+StartChar: uni062D
 Encoding: 1581 1581 197
 Width: 1000
 Flags: W
@@ -15076,7 +15075,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: khaharabic
+StartChar: uni062E
 Encoding: 1582 1582 198
 Width: 1000
 Flags: W
@@ -15161,7 +15160,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dalarabic
+StartChar: uni062F
 Encoding: 1583 1583 199
 Width: 750
 Flags: W
@@ -15201,7 +15200,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thalarabic
+StartChar: uni0630
 Encoding: 1584 1584 200
 Width: 750
 Flags: W
@@ -15251,7 +15250,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: reharabic
+StartChar: uni0631
 Encoding: 1585 1585 201
 Width: 750
 Flags: W
@@ -15296,7 +15295,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zainarabic
+StartChar: uni0632
 Encoding: 1586 1586 202
 Width: 750
 Flags: W
@@ -15351,7 +15350,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seenarabic
+StartChar: uni0633
 Encoding: 1587 1587 203
 Width: 1500
 Flags: W
@@ -15446,7 +15445,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sheenarabic
+StartChar: uni0634
 Encoding: 1588 1588 204
 Width: 1500
 Flags: W
@@ -15566,7 +15565,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sadarabic
+StartChar: uni0635
 Encoding: 1589 1589 205
 Width: 1625
 Flags: W
@@ -15671,7 +15670,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dadarabic
+StartChar: uni0636
 Encoding: 1590 1590 206
 Width: 1625
 Flags: W
@@ -15786,7 +15785,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: taharabic
+StartChar: uni0637
 Encoding: 1591 1591 207
 Width: 1000
 Flags: W
@@ -15866,7 +15865,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zaharabic
+StartChar: uni0638
 Encoding: 1592 1592 208
 Width: 1000
 Flags: W
@@ -15956,7 +15955,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ainarabic
+StartChar: uni0639
 Encoding: 1593 1593 209
 Width: 750
 Flags: W
@@ -16026,7 +16025,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ghainarabic
+StartChar: uni063A
 Encoding: 1594 1594 210
 Width: 750
 Flags: W
@@ -16427,7 +16426,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tatweelarabic
+StartChar: uni0640
 Encoding: 1600 1600 216
 Width: 250
 Flags: W
@@ -16447,7 +16446,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: feharabic
+StartChar: uni0641
 Encoding: 1601 1601 217
 Width: 1250
 Flags: W
@@ -16557,7 +16556,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: qafarabic
+StartChar: uni0642
 Encoding: 1602 1602 218
 Width: 1125
 Flags: W
@@ -16672,7 +16671,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kafarabic
+StartChar: uni0643
 Encoding: 1603 1603 219
 Width: 1000
 Flags: W
@@ -16757,7 +16756,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lamarabic
+StartChar: uni0644
 Encoding: 1604 1604 220
 Width: 875
 Flags: W
@@ -16827,7 +16826,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: meemarabic
+StartChar: uni0645
 Encoding: 1605 1605 221
 Width: 750
 Flags: W
@@ -16887,7 +16886,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: noonarabic
+StartChar: uni0646
 Encoding: 1606 1606 222
 Width: 1125
 Flags: W
@@ -16962,7 +16961,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: heharabic
+StartChar: uni0647
 Encoding: 1607 1607 223
 Width: 750
 Flags: W
@@ -17012,7 +17011,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: wawarabic
+StartChar: uni0648
 Encoding: 1608 1608 224
 Width: 750
 Flags: W
@@ -17092,7 +17091,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: alefmaksuraarabic
+StartChar: uni0649
 Encoding: 1609 1609 225
 Width: 1375
 Flags: W
@@ -17162,7 +17161,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yeharabic
+StartChar: uni064A
 Encoding: 1610 1610 226
 Width: 1500
 Flags: W
@@ -17257,7 +17256,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fathatanarabic
+StartChar: uni064B
 Encoding: 1611 1611 227
 Width: 0
 Flags: W
@@ -17287,7 +17286,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dammatanarabic
+StartChar: uni064C
 Encoding: 1612 1612 228
 Width: 0
 Flags: W
@@ -17322,7 +17321,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kasratanarabic
+StartChar: uni064D
 Encoding: 1613 1613 229
 Width: 0
 Flags: W
@@ -17352,7 +17351,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fathaarabic
+StartChar: uni064E
 Encoding: 1614 1614 230
 Width: 0
 Flags: W
@@ -17372,7 +17371,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dammaarabic
+StartChar: uni064F
 Encoding: 1615 1615 231
 Width: 0
 Flags: W
@@ -17402,7 +17401,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kasraarabic
+StartChar: uni0650
 Encoding: 1616 1616 232
 Width: 0
 Flags: W
@@ -17422,7 +17421,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shaddaarabic
+StartChar: uni0651
 Encoding: 1617 1617 233
 Width: 0
 Flags: W
@@ -17442,7 +17441,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sukunarabic
+StartChar: uni0652
 Encoding: 1618 1618 234
 Width: 0
 Flags: W
@@ -17457,7 +17456,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: peharabic
+StartChar: uni067E
 Encoding: 1662 1662 235
 Width: 1125
 Flags: W
@@ -17547,7 +17546,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tteharabic
+StartChar: uni0679
 Encoding: 1657 1657 236
 Width: 1125
 Flags: W
@@ -17632,7 +17631,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tcheharabic
+StartChar: uni0686
 Encoding: 1670 1670 237
 Width: 875
 Flags: W
@@ -17722,7 +17721,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: haaltonearabic
+StartChar: uniFEE9
 Encoding: 65257 65257 238
 Width: 750
 Flags: W
@@ -17772,7 +17771,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: veharabic
+StartChar: uni06A4
 Encoding: 1700 1700 239
 Width: 1125
 Flags: W
@@ -17892,7 +17891,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gafarabic
+StartChar: uni06AF
 Encoding: 1711 1711 240
 Width: 1125
 Flags: W
@@ -18027,7 +18026,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: parenrightaltonearabic
+StartChar: uniFD3F
 Encoding: 64831 64831 243
 Width: 625
 Flags: W
@@ -18087,7 +18086,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: blacksmallsquare
+StartChar: H18543
 Encoding: 9642 9642 244
 Width: 476
 Flags: W
@@ -18102,7 +18101,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: parenleftaltonearabic
+StartChar: uniFD3E
 Encoding: 64830 64830 245
 Width: 625
 Flags: W
@@ -18163,7 +18162,7 @@ EndSplineSet
 Kerns2: 274 125 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  166 -125 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
 
-StartChar: jeharabic
+StartChar: uni0698
 Encoding: 1688 1688 246
 Width: 875
 Flags: W
@@ -18233,7 +18232,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yehbarreearabic
+StartChar: uni06D2
 Encoding: 1746 1746 247
 Width: 750
 Flags: W
@@ -18413,21 +18412,21 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zerowidthspace
+StartChar: uni200B
 Encoding: 8203 8203 252
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: afii61664
+StartChar: uni200C
 Encoding: 8204 8204 253
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: afii301
+StartChar: uni200D
 Encoding: 8205 8205 254
 Width: 0
 Flags: W
