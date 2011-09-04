@@ -1,0 +1,148 @@
+languagesystem DFLt dflt;
+languagesystem arab dflt;
+
+feature init {
+  lookupflag IgnoreMarks;
+    sub uni0626 by uniFE8B;
+    sub uni0628 by uniFE91;
+    sub uni062A by uniFE97;
+    sub uni062B by uniFE9B;
+    sub uni062C by uniFE9F;
+    sub uni062D by uniFEA3;
+    sub uni062E by uniFEA7;
+    sub uni0633 by uniFEB3;
+    sub uni0634 by uniFEB7;
+    sub uni0635 by uniFEBB;
+    sub uni0636 by uniFEBF;
+    sub uni0637 by uniFEC3;
+    sub uni0638 by uniFEC7;
+    sub uni0639 by uniFECB;
+    sub uni063A by uniFECF;
+    sub uni0641 by uniFED3;
+    sub uni0642 by uniFED7;
+    sub uni0643 by uniFEDB;
+    sub uni0644 by uniFEDF;
+    sub uni0645 by uniFEE3;
+    sub uni0646 by uniFEE7;
+    sub uni0647 by uniFEEB;
+    sub uni064A by uniFEF3;
+    sub uni067E by uniFB58;
+    sub uni0679 by uniFB68;
+    sub uni0686 by uniFB7C;
+    sub uni06A4 by uniFB6C;
+    sub uni06AF by uniFB94;
+} init;
+
+feature medi {
+  lookupflag IgnoreMarks;
+    sub uni0626 by uniFE8C;
+    sub uni0628 by uniFE92;
+    sub uni062A by uniFE98;
+    sub uni062B by uniFE9C;
+    sub uni062C by uniFEA0;
+    sub uni062D by uniFEA4;
+    sub uni062E by uniFEA8;
+    sub uni0633 by uniFEB4;
+    sub uni0634 by uniFEB8;
+    sub uni0635 by uniFEBC;
+    sub uni0636 by uniFEC0;
+    sub uni0637 by uniFEC4;
+    sub uni0638 by uniFEC8;
+    sub uni0639 by uniFECC;
+    sub uni063A by uniFED0;
+    sub uni0641 by uniFED4;
+    sub uni0642 by uniFED8;
+    sub uni0643 by uniFEDC;
+    sub uni0644 by uniFEE0;
+    sub uni0645 by uniFEE4;
+    sub uni0646 by uniFEE8;
+    sub uni0647 by uniFEEC;
+    sub uni064A by uniFEF4;
+    sub uni067E by uniFB59;
+    sub uni0679 by uniFB69;
+    sub uni0686 by uniFB7D;
+    sub uni06A4 by uniFB6D;
+    sub uni06AF by uniFB95;
+} medi;
+
+feature fina {
+  lookupflag IgnoreMarks;
+    sub uni06BA by uniFB9F;
+    sub uni0622 by uniFE82;
+    sub uni0623 by uniFE84;
+    sub uni0624 by uniFE86;
+    sub uni0625 by uniFE88;
+    sub uni0626 by uniFE8A;
+    sub uni0627 by uniFE8E;
+    sub uni0628 by uniFE90;
+    sub uni0629 by uniFE94;
+    sub uni062A by uniFE96;
+    sub uni062B by uniFE9A;
+    sub uni062C by uniFE9E;
+    sub uni062D by uniFEA2;
+    sub uni062E by uniFEA6;
+    sub uni062F by uniFEAA;
+    sub uni0630 by uniFEAC;
+    sub uni0631 by uniFEAE;
+    sub uni0632 by uniFEB0;
+    sub uni0633 by uniFEB2;
+    sub uni0634 by uniFEB6;
+    sub uni0635 by uniFEBA;
+    sub uni0636 by uniFEBE;
+    sub uni0637 by uniFEC2;
+    sub uni0638 by uniFEC6;
+    sub uni0639 by uniFECA;
+    sub uni063A by uniFECE;
+    sub uni0641 by uniFED2;
+    sub uni0642 by uniFED6;
+    sub uni0643 by uniFEDA;
+    sub uni0644 by uniFEDE;
+    sub uni0645 by uniFEE2;
+    sub uni0646 by uniFEE6;
+    sub uni0647 by uniFEEA;
+    sub uni0648 by uniFEEE;
+    sub uni0649 by uniFEF0;
+    sub uni064A by uniFEF2;
+    sub uni067E by uniFB57;
+    sub uni0679 by uniFB67;
+    sub uni0686 by uniFB7B;
+    sub uni06A4 by uniFB6B;
+    sub uni06AF by uniFB93;
+    sub uni0698 by uniFB8B;
+    sub uni06D2 by uniFBAF;
+} fina;
+
+# lam-alef ligatures
+feature rlig {
+  lookupflag IgnoreMarks;
+    sub uniFEDF uniFE84 by uniFEF7;
+    sub uniFEE0 uniFE82 by uniFEF6;
+    sub uniFEDF uniFE8E by uniFEFB;
+    sub uniFEE0 uniFE8E by uniFEFC;
+    sub uniFEE0 uniFE84 by uniFEF8;
+    sub uniFEDF uniFE88 by uniFEF9;
+    sub uniFEE0 uniFE88 by uniFEFA;
+    sub uniFEDF uniFE82 by uniFEF5;
+} rlig;
+
+# allah ligature, should not have IgnoreMarks flag
+feature rlig {
+    sub uniFEDF uniFEE0 uniFEEA  by uniFDF2;
+} rlig;
+
+# those are dlig because they are not that readable and should not be on by
+# default
+feature dlig {
+  lookupflag IgnoreMarks;
+    sub uniFEE7 uniFE9E by uniFC4B;
+    sub uniFE97 uniFE9E by uniFC0B;
+    sub uniFE97 uniFEA2 by uniFC0C;
+    sub uniFE97 uniFEA4 by uniFCA2;
+    sub uniFE97 uniFEA0 by uniFCA1;
+    sub uniFEDF uniFEA0 by uniFCC9;
+    sub uniFEDF uniFEA4 by uniFCCA;
+    sub uniFE91 uniFEE2 by uniFC08;
+    sub uniFE97 uniFEE2 by uniFC0E;
+    sub uniFEE3 uniFEE2 by uniFC48;
+    sub uniFE97 uniFEE4 by uniFCA4;
+} dlig;
