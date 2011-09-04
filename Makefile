@@ -14,7 +14,7 @@ $(NAME).otf : $(NAME).sfd $(NAME).fea
 dist: $(NAME).otf
 	@echo "Making dist tarball"
 	@mkdir -p $(NAME)-$(VERSION)
-	@cp $(NAME).otf $(NAME).sfd $(NAME)-$(VERSION)
+	@cp $(NAME).otf $(NAME).sfd $(NAME).fea $(NAME)-$(VERSION)
 	@cp Makefile $(NAME)-$(VERSION)
 	@cp README $(NAME)-$(VERSION)
 	@tar cfj $(NAME)-$(VERSION).tar.bz2 $(NAME)-$(VERSION)
