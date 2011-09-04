@@ -78,7 +78,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65484 12 6
+WinInfo: 1572 12 6
 BeginPrivate: 1
 BlueScale 7 0.03963
 EndPrivate
@@ -16475,6 +16475,7 @@ EndChar
 StartChar: uni064B
 Encoding: 1611 1611 220
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16505,6 +16506,7 @@ EndChar
 StartChar: uni064C
 Encoding: 1612 1612 221
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16540,6 +16542,7 @@ EndChar
 StartChar: uni064D
 Encoding: 1613 1613 222
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16570,6 +16573,7 @@ EndChar
 StartChar: uni064E
 Encoding: 1614 1614 223
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16590,6 +16594,7 @@ EndChar
 StartChar: uni064F
 Encoding: 1615 1615 224
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16620,6 +16625,7 @@ EndChar
 StartChar: uni0650
 Encoding: 1616 1616 225
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16640,6 +16646,7 @@ EndChar
 StartChar: uni0651
 Encoding: 1617 1617 226
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -16660,6 +16667,7 @@ EndChar
 StartChar: uni0652
 Encoding: 1618 1618 227
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -17461,6 +17469,7 @@ EndChar
 StartChar: uni0653
 Encoding: 1619 1619 239
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -17491,6 +17500,7 @@ EndChar
 StartChar: uni0654
 Encoding: 1620 1620 240
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -17526,6 +17536,7 @@ EndChar
 StartChar: uni0655
 Encoding: 1621 1621 241
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
