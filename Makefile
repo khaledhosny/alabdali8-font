@@ -1,5 +1,5 @@
 NAME=AlAbdali8
-VERSION=002.000
+VERSION=002.001
 
 FF=fontforge -lang=ff
 FFLAGES=0x200000
