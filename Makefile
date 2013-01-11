@@ -1,15 +1,24 @@
 NAME=AlAbdali8
 VERSION=002.001
 
-FF=fontforge -lang=ff
-FFLAGES=0x200000
-SCRIPT='Open($$1); MergeFeature($$2); SetFontNames("","","","","","$(VERSION)"); Generate($$3, "", $(FFLAGES))'
+PY=python
+
+define $(NAME)SCRIPT
+import fontforge, sys
+f = fontforge.open(sys.argv[1])
+if len(sys.argv) > 3:
+  f.mergeFeature(sys.argv[3])
+f.version = "$(VERSION)"
+f.generate(sys.argv[2], flags=("round", "opentype"))
+endef
+
+export $(NAME)SCRIPT
 
 all: $(NAME).otf
 
 $(NAME).otf : $(NAME).sfd $(NAME).fea
-	@echo "Generating $@"
-	@$(FF) -c $(SCRIPT) $^ $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@echo "Building $@"
+	@$(PY) -c "$$$(NAME)SCRIPT" $< $@ $(NAME).fea
 
 dist: $(NAME).otf
 	@echo "Making dist tarball"
